@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/imsaadi.github.io/static/css/main.ead55700.css",
+    "main.js": "/imsaadi.github.io/static/js/main.96242828.js",
+    "static/js/787.a2cb61a6.chunk.js": "/imsaadi.github.io/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/imsaadi.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/imsaadi.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/imsaadi.github.io/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/imsaadi.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/imsaadi.github.io/index.html",
+    "main.ead55700.css.map": "/imsaadi.github.io/static/css/main.ead55700.css.map",
+    "main.96242828.js.map": "/imsaadi.github.io/static/js/main.96242828.js.map",
+    "787.a2cb61a6.chunk.js.map": "/imsaadi.github.io/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead55700.css",
+    "static/js/main.96242828.js"
+  ]
+}
